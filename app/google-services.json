@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429771503465",
+    "project_id": "krestikinoliki-b2294",
+    "storage_bucket": "krestikinoliki-b2294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429771503465:android:87b81a9af16b291f382ff8",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429771503465-t929oh6pncj87vu4573l8f7jfkqpanoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCgjejTna32dx23eEG2rxfg0B1EWxjNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429771503465-t929oh6pncj87vu4573l8f7jfkqpanoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
